@@ -1,0 +1,18 @@
+# 核心依赖
+numpy>=1.24.0
+matplotlib>=3.7.0
+torch>=1.10.0
+gymnasium>=0.29.1
+pygame>=2.5.0
+imageio>=2.31.0
+
+# 并行与性能支持
+concurrent-log-handler>=0.9.25
+
+# 可视化和图像生成
+imageio[ffmpeg]>=2.31.0
+
+# 兼容旧 gym API（可选）
+gym==0.26.2
+
+
