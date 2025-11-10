@@ -115,7 +115,7 @@ D = 10.0
 | DDPG pi_loss | ![returns](runs_pendulum/run_20251022_210825/pi_loss.png) |
 | DDPG q_loss  | ![returns](runs_pendulum/run_20251022_210825/q_loss.png)  |
 | DDPG 训练回报    | ![returns](runs_pendulum/run_20251022_210825/returns.png) |
-| DDPG 评估动画    | ![returns](runs_pendulum/run_20251022_210825/eval.gif)    |
+| DDPG 评估动画    | ![returns](runs_pendulum/run_20251022_210825/eval2.gif)    |
 | PID 参数搜索     | ![pid_search](runs_pid/pid_search_3d.png)                 |
 
 
